@@ -33,8 +33,8 @@ def result():
       HNR =  float(request.form.get('HNR'))
       RPDE =  float(request.form.get('RPDE'))
       DFA =  float(request.form.get('DFA'))
-      spread1 =  float(request.form.get('spread1'))
-      spread2 =  float(request.form.get('spread2'))
+      spread1 =  float(request.form.get('Spread1'))
+      spread2 =  float(request.form.get('Spread2'))
       D2 =  float(request.form.get('D2'))
       PPE =  float(request.form.get('PPE'))
         
