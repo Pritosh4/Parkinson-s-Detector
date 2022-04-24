@@ -1,2 +1,3 @@
 # Parkinson's Disease Predictor
-This is a website used for finding whether person have parkinson's or not for which we have a single page webpage and an ML model connected through website by flask.
+A website on Parkinson's Disease that displays general information about the disease and also has the ability to predit if you have Parkinson's Disease or 
+not based on certai test results
